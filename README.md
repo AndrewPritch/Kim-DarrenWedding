@@ -2,11 +2,12 @@
 <html>
 <head>
 <title>Mr and Mrs Smith Wedding</title>
-</head>
-<body style="background-color:#808080">
 
 <h1><center>Mr and Mrs Smith Wedding</center></h1>
+  </head>
+  
 <hr></hr>
+<body style="background-color:#808080">
 <p><center>Kim and Darren</center></p>
 <center><img src="kim&darren.jpeg" /></center>
 <p><ul>Kims Wedding <br>
